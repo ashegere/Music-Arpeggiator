@@ -1,0 +1,10 @@
+torch==2.1.0
+transformers==4.36.0
+miditok==2.1.5
+pretty-midi==0.2.10
+note-seq== 0.0.5
+fastapi==0.104.1
+uvicorn[standard]==0.24.0
+pydantic==2.5.0
+python-multipart==0.0.6
+numpy==1.24.3
